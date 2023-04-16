@@ -11,6 +11,22 @@
 		4B1E307029E89DFA00A6337D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1E306F29E89DFA00A6337D /* ContentView.swift */; };
 		4B1E307229E89DFB00A6337D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1E307129E89DFB00A6337D /* Assets.xcassets */; };
 		4B1E307529E89DFB00A6337D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1E307429E89DFB00A6337D /* Preview Assets.xcassets */; };
+		4B54487929E94AAC00AD6E3E /* MainPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B54487829E94AAC00AD6E3E /* MainPage.swift */; };
+		4B54487B29E94CB600AD6E3E /* MultiPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B54487A29E94CB600AD6E3E /* MultiPlayer.swift */; };
+		4B54489729EAB5E200AD6E3E /* CustomChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B54489629EAB5E200AD6E3E /* CustomChoice.swift */; };
+		4B54489929EBF08E00AD6E3E /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B54489829EBF08E00AD6E3E /* CustomButton.swift */; };
+		4B54489E29EBF14E00AD6E3E /* ChooseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B54489D29EBF14E00AD6E3E /* ChooseView.swift */; };
+		4B5448A029EBF19000AD6E3E /* ChangeChoiseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B54489F29EBF19000AD6E3E /* ChangeChoiseView.swift */; };
+		4B5448A229EBF1DE00AD6E3E /* OponentThinksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448A129EBF1DE00AD6E3E /* OponentThinksView.swift */; };
+		4B5448A429EBF20300AD6E3E /* OponentChoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448A329EBF20300AD6E3E /* OponentChoice.swift */; };
+		4B5448A629EBF23200AD6E3E /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448A529EBF23200AD6E3E /* GameView.swift */; };
+		4B5448A829EBF2B500AD6E3E /* FirstPlayerChooseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448A729EBF2B500AD6E3E /* FirstPlayerChooseView.swift */; };
+		4B5448AA29EBF2E200AD6E3E /* MultiplyChangeChooseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448A929EBF2E200AD6E3E /* MultiplyChangeChooseView.swift */; };
+		4B5448AC29EBF30A00AD6E3E /* PassToOponentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448AB29EBF30A00AD6E3E /* PassToOponentView.swift */; };
+		4B5448AE29EBF32500AD6E3E /* SecondPlayerChooseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448AD29EBF32500AD6E3E /* SecondPlayerChooseView.swift */; };
+		4B5448B029EBF3A400AD6E3E /* MultiplayGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448AF29EBF3A400AD6E3E /* MultiplayGameView.swift */; };
+		4B5448B429EBF60800AD6E3E /* HeaderText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448B329EBF60800AD6E3E /* HeaderText.swift */; };
+		4B5448B629EBFB8200AD6E3E /* Capsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5448B529EBFB8200AD6E3E /* Capsule.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		4B1E306F29E89DFA00A6337D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4B1E307129E89DFB00A6337D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B1E307429E89DFB00A6337D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4B54487829E94AAC00AD6E3E /* MainPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPage.swift; sourceTree = "<group>"; };
+		4B54487A29E94CB600AD6E3E /* MultiPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiPlayer.swift; sourceTree = "<group>"; };
+		4B54489629EAB5E200AD6E3E /* CustomChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomChoice.swift; sourceTree = "<group>"; };
+		4B54489829EBF08E00AD6E3E /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		4B54489D29EBF14E00AD6E3E /* ChooseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseView.swift; sourceTree = "<group>"; };
+		4B54489F29EBF19000AD6E3E /* ChangeChoiseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeChoiseView.swift; sourceTree = "<group>"; };
+		4B5448A129EBF1DE00AD6E3E /* OponentThinksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OponentThinksView.swift; sourceTree = "<group>"; };
+		4B5448A329EBF20300AD6E3E /* OponentChoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OponentChoice.swift; sourceTree = "<group>"; };
+		4B5448A529EBF23200AD6E3E /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		4B5448A729EBF2B500AD6E3E /* FirstPlayerChooseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPlayerChooseView.swift; sourceTree = "<group>"; };
+		4B5448A929EBF2E200AD6E3E /* MultiplyChangeChooseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplyChangeChooseView.swift; sourceTree = "<group>"; };
+		4B5448AB29EBF30A00AD6E3E /* PassToOponentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassToOponentView.swift; sourceTree = "<group>"; };
+		4B5448AD29EBF32500AD6E3E /* SecondPlayerChooseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPlayerChooseView.swift; sourceTree = "<group>"; };
+		4B5448AF29EBF3A400AD6E3E /* MultiplayGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplayGameView.swift; sourceTree = "<group>"; };
+		4B5448B329EBF60800AD6E3E /* HeaderText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderText.swift; sourceTree = "<group>"; };
+		4B5448B529EBFB8200AD6E3E /* Capsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capsule.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +84,10 @@
 			isa = PBXGroup;
 			children = (
 				4B1E306D29E89DFA00A6337D /* RockPaperScissorsApp.swift */,
-				4B1E306F29E89DFA00A6337D /* ContentView.swift */,
+				4B54487829E94AAC00AD6E3E /* MainPage.swift */,
+				4B54489B29EBF10F00AD6E3E /* SinglePlayer */,
+				4B54489C29EBF11D00AD6E3E /* MultiPlayer */,
+				4B54489A29EBF0DD00AD6E3E /* Helpers */,
 				4B1E307129E89DFB00A6337D /* Assets.xcassets */,
 				4B1E307329E89DFB00A6337D /* Preview Content */,
 			);
@@ -65,6 +100,43 @@
 				4B1E307429E89DFB00A6337D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4B54489A29EBF0DD00AD6E3E /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				4B54489629EAB5E200AD6E3E /* CustomChoice.swift */,
+				4B54489829EBF08E00AD6E3E /* CustomButton.swift */,
+				4B5448B329EBF60800AD6E3E /* HeaderText.swift */,
+				4B5448B529EBFB8200AD6E3E /* Capsule.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		4B54489B29EBF10F00AD6E3E /* SinglePlayer */ = {
+			isa = PBXGroup;
+			children = (
+				4B1E306F29E89DFA00A6337D /* ContentView.swift */,
+				4B54489D29EBF14E00AD6E3E /* ChooseView.swift */,
+				4B54489F29EBF19000AD6E3E /* ChangeChoiseView.swift */,
+				4B5448A129EBF1DE00AD6E3E /* OponentThinksView.swift */,
+				4B5448A329EBF20300AD6E3E /* OponentChoice.swift */,
+				4B5448A529EBF23200AD6E3E /* GameView.swift */,
+			);
+			path = SinglePlayer;
+			sourceTree = "<group>";
+		};
+		4B54489C29EBF11D00AD6E3E /* MultiPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				4B54487A29E94CB600AD6E3E /* MultiPlayer.swift */,
+				4B5448AF29EBF3A400AD6E3E /* MultiplayGameView.swift */,
+				4B5448AD29EBF32500AD6E3E /* SecondPlayerChooseView.swift */,
+				4B5448A929EBF2E200AD6E3E /* MultiplyChangeChooseView.swift */,
+				4B5448A729EBF2B500AD6E3E /* FirstPlayerChooseView.swift */,
+				4B5448AB29EBF30A00AD6E3E /* PassToOponentView.swift */,
+			);
+			path = MultiPlayer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +209,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B54487B29E94CB600AD6E3E /* MultiPlayer.swift in Sources */,
+				4B5448B629EBFB8200AD6E3E /* Capsule.swift in Sources */,
 				4B1E307029E89DFA00A6337D /* ContentView.swift in Sources */,
+				4B54489E29EBF14E00AD6E3E /* ChooseView.swift in Sources */,
+				4B5448A829EBF2B500AD6E3E /* FirstPlayerChooseView.swift in Sources */,
+				4B5448AE29EBF32500AD6E3E /* SecondPlayerChooseView.swift in Sources */,
+				4B54489929EBF08E00AD6E3E /* CustomButton.swift in Sources */,
+				4B5448B429EBF60800AD6E3E /* HeaderText.swift in Sources */,
+				4B5448A229EBF1DE00AD6E3E /* OponentThinksView.swift in Sources */,
+				4B5448A629EBF23200AD6E3E /* GameView.swift in Sources */,
+				4B5448B029EBF3A400AD6E3E /* MultiplayGameView.swift in Sources */,
 				4B1E306E29E89DFA00A6337D /* RockPaperScissorsApp.swift in Sources */,
+				4B5448AA29EBF2E200AD6E3E /* MultiplyChangeChooseView.swift in Sources */,
+				4B5448A429EBF20300AD6E3E /* OponentChoice.swift in Sources */,
+				4B5448A029EBF19000AD6E3E /* ChangeChoiseView.swift in Sources */,
+				4B54489729EAB5E200AD6E3E /* CustomChoice.swift in Sources */,
+				4B5448AC29EBF30A00AD6E3E /* PassToOponentView.swift in Sources */,
+				4B54487929E94AAC00AD6E3E /* MainPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
